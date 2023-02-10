@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manthan Kailash Pelne</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h2> Hi, I'm Manthan Kailash Pelne!</h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Persuing Full Stack Web Development Course at <a href="https://masaischool.com/">Masai School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
