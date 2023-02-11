@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://manthanpelne.github.io/](https://manthanpelne.github.io/)
 
-- 💬 Ask me about **HTML,CSS, Javascript ,Nodejs, Express, MongoDB**
+- 💬 Ask me about **HTML,CSS, JavaScript ,Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **manthanpelneoo7@gmail.com**
 
