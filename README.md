@@ -1,6 +1,5 @@
 <h2> Hi, I'm Manthan Kailash Pelne!</h2>
 <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  border-radius="50" align="right" width="300" alt="">
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966)" width="230">
 <p><em>Persuing Full Stack Web Development Course at <a href="https://masaischool.com/">Masai School</a>
 </em></p>
 
