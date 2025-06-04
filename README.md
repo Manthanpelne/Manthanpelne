@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://manthanpelne.github.io/](https://manthanpelne.github.io/)
+- 👨‍💻 All of my projects are available at [https://animated-manatee-a89329.netlify.app/](https://animated-manatee-a89329.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS, JavaScript, React.js, Node.js, Express.js, MongoDB**
 
