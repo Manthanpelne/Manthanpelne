@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manthanpelneoo7@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1_G-WJpThnT5PZkSM8HDszTr0PI_YEvI4/view?usp=share_link]([https://drive.google.com/file/d/1RuSy3zr50i6FwdyHKYAJyc4O30RGkGGa/view?usp=sharing](https://drive.google.com/file/d/1RuSy3zr50i6FwdyHKYAJyc4O30RGkGGa/view?usp=sharing))]([https://drive.google.com/file/d/1_G-WJpThnT5PZkSM8HDszTr0PI_YEvI4/view?usp=share_link](https://drive.google.com/file/d/1RuSy3zr50i6FwdyHKYAJyc4O30RGkGGa/view?usp=sharing))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1_G-WJpThnT5PZkSM8HDszTr0PI_YEvI4/view?usp=share_link]([https://drive.google.com/file/d/1RuSy3zr50i6FwdyHKYAJyc4O30RGkGGa/view?usp=sharing](https://drive.google.com/file/d/1RuSy3zr50i6FwdyHKYAJyc4O30RGkGGa/view?usp=sharing))]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
